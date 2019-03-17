@@ -18,9 +18,9 @@
     "mysql": "^2.16.0"
   },
   "database": {
-    "host": "mydbinstance.cwk8zkcpw6nb.ap-northeast-2.rds.amazonaws.com",
-    "user": "admin",
-    "password": "test1234",
+    "host": "mymysqldb.c888azbowtws.ap-northeast-2.rds.amazonaws.com",
+    "user": "root",
+    "password": "13241324",
     "database": "devops"
   }
 }
