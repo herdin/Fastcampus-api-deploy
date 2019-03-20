@@ -16,6 +16,7 @@ module.exports = {
                 'description',
                 'imgUrl'
             )
-            .from('LIST');
+            .from('LIST')
+            .limit(2);
     },
 };
